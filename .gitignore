@@ -1,0 +1,6 @@
+.DS_Store
+examples/*/.terraform
+examples/*/*tfstate*
+examples/*/.envrc
+vendor/*
+!vendor/vendor.json
